@@ -1,0 +1,92 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+#logo{
+    font-size: 32px;
+    padding: 0px 160px 30px 0;
+    margin-left: 60px ;
+    text-indent: 100px;
+    color:black;
+}
+.nav_items p{
+    display: inline-block;
+    font-size: 20px;
+    padding-left:60px;
+    font-family:cursive;  
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.nav_icon{
+    margin-bottom: -7px;
+}
+
+.layout_column{
+    margin-left: 160px;
+    float:left;
+    width: 50%;
+    max-width: 400px;
+}
+.layout_row:after{
+    content:"";
+    display:table;
+    clear:both;
+}
+.p_one{
+    font-size: 24px;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+}
+.p_form{
+    margin: 25px 0 30px;
+}
+.p_price{
+    padding: 10px 20px 10px 24px;
+    border-radius: 10px;
+    width: 145px;
+    height: 20px;
+    background-color: #00712D;
+    color: whitesmoke;
+    
+}
+.price{
+    margin-left: 12px;
+}
+#price_line{
+    display: inline-block;
+
+}
+#button{
+    color:whitesmoke;
+}
+button{
+    margin: 20px 0 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 24px;
+    padding:10px 20px;
+    background-color: #FF9100;
+    color: #ffffff;
+    width: 280px;
+    height: 70px;
+}
+img{
+    position: relative;
+    border-radius: 15px;
+    box-shadow: 4px;
+}
+
+hr{
+    margin-top: 50px;
+}
+footer{
+    margin:0px 60px 30px 60px;
+}
+#icon{
+    width: 40px;
+}
+.column{
+    margin: 0px 60px 0px 100px;
+    float: left;
+}

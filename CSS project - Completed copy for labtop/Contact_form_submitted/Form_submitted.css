@@ -1,0 +1,76 @@
+body{
+    background-position: 0px 110px;
+    background-size: 1280px 720px;
+    background-image:url(Randoms/Screenshot\ 2024-08-23\ 043022.png);
+    background-repeat: no-repeat;
+    
+}
+#logo{
+    font-size: 32px;
+    padding: 0px 160px 30px 0;
+    margin-left: 60px ;
+    text-indent: 100px;
+    color:black;
+}
+.nav_items p{
+    display: inline-block;
+    font-size: 20px;
+    padding-left:60px;
+    font-family:cursive;  
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.nav_icon{
+    margin-bottom: -7px;
+}
+
+#center_box{
+    display: block;
+    height: 300px;
+    width: 680px;
+    position:relative;
+    top:140px;
+    left:290px;
+    background-color: #FFFBE6;
+    border-radius:9px;
+    border: none;
+}
+span{
+    display: block;
+    height: 40px;
+    width: 200px;
+    font-size: 24px;
+    background-color: #00712D;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px 10px 0 10px;
+    color: whitesmoke;
+    position: relative;
+    top: 80px;
+    left: 230px;
+}
+#thanks_note{
+    position: relative;
+    top: 90px;
+    left: 297px;
+}
+svg{
+    position: relative;
+    top: 90px;
+    left: 310px;
+}
+
+#icon{
+    width: 40px;
+}
+.column{
+    margin: 0px 30px 0px 100px;
+    float: left;
+}
+footer{
+    margin-left:60px ;
+    position:absolute;
+    top: 840px;
+}
